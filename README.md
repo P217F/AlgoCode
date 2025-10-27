@@ -1,2 +1,2 @@
 # AlgoCode
-AlgoCode, meaning is Algorithm Code
+AlgoCode, meaning is Algorithm Code  

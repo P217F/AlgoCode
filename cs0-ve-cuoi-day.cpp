@@ -17,8 +17,8 @@ int main() {
         }
     }
 
-    for(int i=mkk;i<=n;++i)
-        m.push_back(0);
+    for(int i=mkk+1;i<=n;++i)
+        m[mkk]=0;
 
     for(int i=1;i<=n;++i)
         cout<<m[i]<<" ";
