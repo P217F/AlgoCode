@@ -1,0 +1,8 @@
+CompileFlags:
+  Add: [-std=c++23, -Wall, -Wextra, -O2]
+Index:
+  Background: false
+  Threads: 1
+Diagnostics:
+  Suppress: [unused-parameter]
+FallbackFlags: [-std=c++23]
