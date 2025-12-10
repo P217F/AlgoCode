@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <cstdio>
 using namespace std;
 
 int sql_num_arr(int nums_sql, const vector<long long>& arr, int size) {
