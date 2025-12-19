@@ -1,1 +1,5 @@
 main
+build/
+a.inp
+a.out
+.vscode/
