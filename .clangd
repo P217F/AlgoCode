@@ -1,4 +1,0 @@
-CompileFlags:
-  Add: [-std=c++23, -Wall, -Wextra, -Wpedantic, -O2]
-Diagnostics:
-  Suppress: [unused-parameter]
